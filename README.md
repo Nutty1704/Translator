@@ -1,6 +1,6 @@
 # Translator
 
-## A translator for .txt files and .docx files which can translate a file with content in any language to any user specified language.
+## A translator for .txt files and .docx files which can translate a file with text in any language to any user specified language.
 
 The translator creates a new translated file in the same directory.
 
